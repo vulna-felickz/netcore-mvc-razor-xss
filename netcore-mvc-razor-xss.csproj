@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>netcore_mvc_razor_xss</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="boop\**" />
+    <None Remove="codeql-db\**" />
+  </ItemGroup>
+
+</Project>

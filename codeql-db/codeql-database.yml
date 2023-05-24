@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: C:\Users\chadbentz\source\repos\vulna-felickz\netcore-mvc-razor-xss
+baselineLinesOfCode: 105
+unicodeNewlines: false
+columnKind: utf16
+primaryLanguage: csharp
+creationMetadata:
+  cliVersion: 2.12.5
+  creationTime: 2023-05-24T17:17:44.194071300Z
+finalised: true
